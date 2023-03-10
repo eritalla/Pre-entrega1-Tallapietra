@@ -51,8 +51,11 @@ if (comprar === "si") {
 
 
 
-let comprar = "si";
-while (comprar === "si") {
-   alert ("elegí un producto");
-   comprarProducto();
-}
+//let comprar = "si";
+//while (comprar === "si") {
+//   alert ("elegí un producto");
+//   comprarProducto();
+//}
+// acá me gustaría incluir la suma de ambos 
+// productos pero no entiendo como puedo recuperar el precio de ambos para luego sumarlos.
+// necesito ayuda. 
